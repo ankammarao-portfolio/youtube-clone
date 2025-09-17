@@ -16,9 +16,10 @@ This project replicates the basic layout and features of YouTube, focusing on **
   - Views info  
 - 🎨 **Clean YouTube-like UI** – Built with Flexbox, Grid, and Media Queries.  
 
----
+
 ## Live Demo
 👉 [Watch Now](https://ankammarao-portfolio.github.io/youtube-clone)
+
 ---
 
 ## 📂 Project Structure

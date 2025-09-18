@@ -39,23 +39,13 @@ youtube-ui-clone/
 👉 Screenshot of homepage:  
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8d277eb3-6f80-4fa1-8cfb-7f47c082cd1f" />
 
-
-
-👉 Hover video preview (GIF):  
-![Video Hover Preview](./hover-preview.gif)  
-
-*(Replace `screenshot.png` and `hover-preview.gif` with your own files inside the repo root)*  
-
 ---
 
-## 💡 How to Use
-1. Clone the repository:  
+## 📂 Installation
+1. Clone this repository:
    ```bash
-   git clone 
-https://github.com/ankammarao-portfolio/youtube-clone.git
+   git clone https://github.com/ankammarao-portfolio/youtube-clone.git
 
-
-Open index.html in your browser.
 ---
 
 ## 📌  Future Improvements
